@@ -1,0 +1,569 @@
+ascii
+
+646, us-ascii
+
+영어
+
+big5
+
+big5-tw, csbig5
+
+중국어 번체
+
+big5hkscs
+
+big5-hkscs, hkscs
+
+중국어 번체
+
+cp037
+
+IBM037, IBM039
+
+영어
+
+cp273
+
+273, IBM273, csIBM273
+
+독일어
+
+버전 3.4에 추가.
+
+cp424
+
+EBCDIC-CP-HE, IBM424
+
+히브리어
+
+cp437
+
+437, IBM437
+
+영어
+
+cp500
+
+EBCDIC-CP-BE, EBCDIC-CP-CH, IBM500
+
+서유럽어
+
+cp720
+
+아랍어
+
+cp737
+
+그리스어
+
+cp775
+
+IBM775
+
+발트어
+
+cp850
+
+850, IBM850
+
+서유럽어
+
+cp852
+
+852, IBM852
+
+중부와 동유럽어
+
+cp855
+
+855, IBM855
+
+불가리아어, 벨로루시야어, 마케도니아어, 러시아어, 세르비아어
+
+cp856
+
+히브리어
+
+cp857
+
+857, IBM857
+
+터키어
+
+cp858
+
+858, IBM858
+
+서유럽어
+
+cp860
+
+860, IBM860
+
+포르투갈어
+
+cp861
+
+861, CP-IS, IBM861
+
+아이슬란드어
+
+cp862
+
+862, IBM862
+
+히브리어
+
+cp863
+
+863, IBM863
+
+캐나다어
+
+cp864
+
+IBM864
+
+아랍어
+
+cp865
+
+865, IBM865
+
+덴마크어, 노르웨이어
+
+cp866
+
+866, IBM866
+
+러시아어
+
+cp869
+
+869, CP-GR, IBM869
+
+그리스어
+
+cp874
+
+태국어
+
+cp875
+
+그리스어
+
+cp932
+
+932, ms932, mskanji, ms-kanji
+
+일본어
+
+cp949
+
+949, ms949, uhc
+
+한국어
+
+cp950
+
+950, ms950
+
+중국어 번체
+
+cp1006
+
+우르두어
+
+cp1026
+
+ibm1026
+
+터키어
+
+cp1125
+
+1125, ibm1125, cp866u, ruscii
+
+우크라이나어
+
+버전 3.4에 추가.
+
+cp1140
+
+ibm1140
+
+서유럽어
+
+cp1250
+
+windows-1250
+
+중부와 동유럽어
+
+cp1251
+
+windows-1251
+
+불가리아어, 벨로루시야어, 마케도니아어, 러시아어, 세르비아어
+
+cp1252
+
+windows-1252
+
+서유럽어
+
+cp1253
+
+windows-1253
+
+그리스어
+
+cp1254
+
+windows-1254
+
+터키어
+
+cp1255
+
+windows-1255
+
+히브리어
+
+cp1256
+
+windows-1256
+
+아랍어
+
+cp1257
+
+windows-1257
+
+발트어
+
+cp1258
+
+windows-1258
+
+베트남어
+
+euc_jp
+
+eucjp, ujis, u-jis
+
+일본어
+
+euc_jis_2004
+
+jisx0213, eucjis2004
+
+일본어
+
+euc_jisx0213
+
+eucjisx0213
+
+일본어
+
+euc_kr
+
+euckr, korean, ksc5601, ks_c-5601, ks_c-5601-1987, ksx1001, ks_x-1001
+
+한국어
+
+gb2312
+
+chinese, csiso58gb231280, euc-cn, euccn, eucgb2312-cn, gb2312-1980, gb2312-80, iso-ir-58
+
+중국어 간체
+
+gbk
+
+936, cp936, ms936
+
+통합 중국어
+
+gb18030
+
+gb18030-2000
+
+통합 중국어
+
+hz
+
+hzgb, hz-gb, hz-gb-2312
+
+중국어 간체
+
+iso2022_jp
+
+csiso2022jp, iso2022jp, iso-2022-jp
+
+일본어
+
+iso2022_jp_1
+
+iso2022jp-1, iso-2022-jp-1
+
+일본어
+
+iso2022_jp_2
+
+iso2022jp-2, iso-2022-jp-2
+
+일본어, 한국어, 중국어 간체, 서유럽어, 그리스어
+
+iso2022_jp_2004
+
+iso2022jp-2004, iso-2022-jp-2004
+
+일본어
+
+iso2022_jp_3
+
+iso2022jp-3, iso-2022-jp-3
+
+일본어
+
+iso2022_jp_ext
+
+iso2022jp-ext, iso-2022-jp-ext
+
+일본어
+
+iso2022_kr
+
+csiso2022kr, iso2022kr, iso-2022-kr
+
+한국어
+
+latin_1
+
+iso-8859-1, iso8859-1, 8859, cp819, latin, latin1, L1
+
+서유럽어
+
+iso8859_2
+
+iso-8859-2, latin2, L2
+
+중부와 동유럽어
+
+iso8859_3
+
+iso-8859-3, latin3, L3
+
+에스페란토어, 몰타어
+
+iso8859_4
+
+iso-8859-4, latin4, L4
+
+발트어
+
+iso8859_5
+
+iso-8859-5, cyrillic
+
+불가리아어, 벨로루시야어, 마케도니아어, 러시아어, 세르비아어
+
+iso8859_6
+
+iso-8859-6, arabic
+
+아랍어
+
+iso8859_7
+
+iso-8859-7, greek, greek8
+
+그리스어
+
+iso8859_8
+
+iso-8859-8, hebrew
+
+히브리어
+
+iso8859_9
+
+iso-8859-9, latin5, L5
+
+터키어
+
+iso8859_10
+
+iso-8859-10, latin6, L6
+
+북유럽어
+
+iso8859_11
+
+iso-8859-11, thai
+
+태국어
+
+iso8859_13
+
+iso-8859-13, latin7, L7
+
+발트어
+
+iso8859_14
+
+iso-8859-14, latin8, L8
+
+켈틱어
+
+iso8859_15
+
+iso-8859-15, latin9, L9
+
+서유럽어
+
+iso8859_16
+
+iso-8859-16, latin10, L10
+
+남유럽어
+
+johab
+
+cp1361, ms1361
+
+한국어
+
+koi8_r
+
+러시아어
+
+koi8_t
+
+타지크어
+
+버전 3.5에 추가.
+
+koi8_u
+
+우크라이나어
+
+kz1048
+
+kz_1048, strk1048_2002, rk1048
+
+카자흐어
+
+버전 3.5에 추가.
+
+mac_cyrillic
+
+maccyrillic
+
+불가리아어, 벨로루시야어, 마케도니아어, 러시아어, 세르비아어
+
+mac_greek
+
+macgreek
+
+그리스어
+
+mac_iceland
+
+maciceland
+
+아이슬란드어
+
+mac_latin2
+
+maclatin2, maccentraleurope, mac_centeuro
+
+중부와 동유럽어
+
+mac_roman
+
+macroman, macintosh
+
+서유럽어
+
+mac_turkish
+
+macturkish
+
+터키어
+
+ptcp154
+
+csptcp154, pt154, cp154, cyrillic-asian
+
+카자흐어
+
+shift_jis
+
+csshiftjis, shiftjis, sjis, s_jis
+
+일본어
+
+shift_jis_2004
+
+shiftjis2004, sjis_2004, sjis2004
+
+일본어
+
+shift_jisx0213
+
+shiftjisx0213, sjisx0213, s_jisx0213
+
+일본어
+
+utf_32
+
+U32, utf32
+
+모든 언어
+
+utf_32_be
+
+UTF-32BE
+
+모든 언어
+
+utf_32_le
+
+UTF-32LE
+
+모든 언어
+
+utf_16
+
+U16, utf16
+
+모든 언어
+
+utf_16_be
+
+UTF-16BE
+
+모든 언어
+
+utf_16_le
+
+UTF-16LE
+
+모든 언어
+
+utf_7
+
+U7, unicode-1-1-utf-7
+
+모든 언어
+
+utf_8
+
+U8, UTF, utf8, cp65001
+
+모든 언어
+
+utf_8_sig
+
+모든 언어
