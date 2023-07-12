@@ -1,3 +1,5 @@
+# boj_25501
+
 import sys
 
 def recursion(string,left,right,count):
